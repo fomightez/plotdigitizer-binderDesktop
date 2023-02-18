@@ -1,0 +1,22 @@
+dependencies:
+- python <3.11
+- spyder 5.4.2
+- cython
+- matplotlib
+- pandas
+- pillow
+- scikit-learn
+- scipy
+- sympy
+- opencv
+# This is to avoid pulling an older IPython version
+- ipython >=7.25
+# This is required to avoid conda complaining about it.
+- pip
+
+# Required for jupyter-desktop-server
+- websockify
+- nbgitpuller
+- pip:
+    - jupyter-desktop-server
+    - plotdigitizer
