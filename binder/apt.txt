@@ -12,4 +12,3 @@ fonts-ubuntu
 htop
 nano
 libgles2
-libgl1-mesa-dri
