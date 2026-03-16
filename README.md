@@ -1,4 +1,7 @@
 # plotdigitizer-binderDesktop
+
+THIS CURRENTLY DOESN't WORK. Probably fixable, the way I fixed https://github.com/fomightez/Jupyter-desktop_with_pymol 8 months ago!! Sorry for now. NEEDS FIXING!!
+
 Python-based PlotDigitizer working alongside Qt on desktop in sessions served via MyBinder.org
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/plotdigitizer-binderDesktop/HEAD?urlpath=desktop)
